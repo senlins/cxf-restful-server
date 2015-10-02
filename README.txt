@@ -1,0 +1,1 @@
+This project is used for the study of creating server side restful services by using CXF.
